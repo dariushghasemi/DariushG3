@@ -1,4 +1,4 @@
-![Dolomities cover](https://github.com/DariushG3/DariushG3/blob/main/Dolomitte_March_2023.JPG)
+![Dolomities cover](https://github.com/DariushG3/DariushG3/blob/main/Damavand-Iran-2026.avif)
 - 👋 Hey! I am Dariush, a statistical geneticist working on proteogenomics in Milan.
 - 👀 I am looking for the approaches helping to hunt causal genetic variants linked to the complex traits.
 - 🌱 In my PhD, I learned about genetic determinants of chronic kidney disease (CKD) and the biological obstacles to interpret my research findings. I also tried to find a robust statistical approch to properly reduce the false discovery rate of GWAS and increase the power.
